@@ -14,7 +14,7 @@ metadata:
           f:app: {}
       f:spec:
         f:containers:
-          k:{"name":"hello-web-2"}:
+          k:{"name":"hello-web-21"}:
             .: {}
             f:image: {}
             f:imagePullPolicy: {}
